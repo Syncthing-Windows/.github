@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Sync Hub](https://img.shields.io/badge/⚡_ACCESS_THE_SYNC_HUB-Syncthing_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/)
+[![Access the Sync Hub](https://img.shields.io/badge/ACCESS_THE_SYNC_HUB-Syncthing_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/syncthing-windows)
 </div>
 
 ## What is this Syncthing File Synchronization?
